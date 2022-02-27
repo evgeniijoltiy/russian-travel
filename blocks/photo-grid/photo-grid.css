@@ -1,6 +1,3 @@
-@import url('__item/photo-grid__item.css');
-@import url('__wrapper/photo-grid__wrapper.css');
-
 .photo-grid {
   max-width: 1184px;
   margin: 0 auto;
