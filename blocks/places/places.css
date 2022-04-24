@@ -8,13 +8,23 @@
 
   @media screen and (max-width: 1280px) {
     .places {
-      width: 92.5%;
-    }
+  height: 3392px;
+  width: 984px;
+  left: 148px;
+  top: 2517px;
+  border-radius: 0px;
   }
+}
+  
 
   @media screen and (max-width: 1024px) {
     .places {
-      width: 90.625%;
+  height: 3392px;
+  width: 984px;
+  left: 148px;
+  top: 2517px;
+  border-radius: 0px;
+
     }
   }
 
